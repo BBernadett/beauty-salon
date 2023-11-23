@@ -1,0 +1,17 @@
+.sub_list {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 0;
+  margin-top: 0.5rem;
+}
+
+.sub_list > li {
+  margin: 0;
+  font-size: 1.2rem;
+  line-height: 2rem;
+}
+
+.sub_list > li:hover {
+  color: #b28051;
+}

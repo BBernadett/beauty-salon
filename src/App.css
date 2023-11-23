@@ -1,7 +1,13 @@
-*, *::before, *::after{
-  box-sizing:border-box
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
-body{
-  background: orange;
+body {
+  background-color: #f8f2ef;
+  background-image: url("./img/bg-blob.png");
+  background-repeat: no-repeat;
+  background-size: 50vw;
+  background-position: top right;
+  background-size: auto 100vh;
 }
-
