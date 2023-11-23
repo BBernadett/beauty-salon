@@ -4,10 +4,10 @@
   box-sizing: border-box;
 }
 body {
+  color: #d9b596;
   background-color: #f8f2ef;
   background-image: url("./img/bg-blob.png");
   background-repeat: no-repeat;
-  background-size: 50vw;
   background-position: top right;
   background-size: auto 100vh;
 }

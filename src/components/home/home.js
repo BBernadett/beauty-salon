@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import logo from "../../img/bs-logo.png";
 import "./home.css";
 import Submenu from "../submenu/submenu.js";
+import SubPrice from "../price/subPriceList.js";
+import Content from "../content/content.js";
 
 function List(props) {
   const [highlightedIndex, setHighlightedIndex] = useState(null);
@@ -33,6 +35,11 @@ function List(props) {
         <ul>
           <Submenu />
         </ul>
+      )}{" "}
+      {index === 2 && highlightedIndex === 2 && (
+        <ul>
+          <SubPrice />
+        </ul>
       )}
     </li>
   ));
@@ -45,6 +52,7 @@ function List(props) {
           <ul>{items}</ul>
         </nav>
       </header>
+      <Content />
     </div>
   );
 }
