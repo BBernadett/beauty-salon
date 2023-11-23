@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/beauty-salon/static/css/main.380a269f.css",
-    "main.js": "/beauty-salon/static/js/main.92d8cd37.js",
+    "main.css": "/beauty-salon/static/css/main.cafb585a.css",
+    "main.js": "/beauty-salon/static/js/main.6fa0bb70.js",
     "static/js/787.106c734b.chunk.js": "/beauty-salon/static/js/787.106c734b.chunk.js",
+    "static/media/bs-logo.png": "/beauty-salon/static/media/bs-logo.50e1fc7f01a89f28ffcd.png",
+    "static/media/bg-blob.png": "/beauty-salon/static/media/bg-blob.2e8526453b1070480fcf.png",
     "index.html": "/beauty-salon/index.html",
-    "main.380a269f.css.map": "/beauty-salon/static/css/main.380a269f.css.map",
-    "main.92d8cd37.js.map": "/beauty-salon/static/js/main.92d8cd37.js.map",
+    "main.cafb585a.css.map": "/beauty-salon/static/css/main.cafb585a.css.map",
+    "main.6fa0bb70.js.map": "/beauty-salon/static/js/main.6fa0bb70.js.map",
     "787.106c734b.chunk.js.map": "/beauty-salon/static/js/787.106c734b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.380a269f.css",
-    "static/js/main.92d8cd37.js"
+    "static/css/main.cafb585a.css",
+    "static/js/main.6fa0bb70.js"
   ]
 }
